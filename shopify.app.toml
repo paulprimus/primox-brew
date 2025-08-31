@@ -3,7 +3,7 @@
 client_id = "f32c57d1de9113d888b6c2e7db8e8318"
 name = "primox-app"
 handle = "vienna-roast"
-application_url = "https://finds-numerical-injury-sheffield.trycloudflare.com"
+application_url = "https://montreal-arrive-router-suggests.trycloudflare.com"
 embedded = true
 
 [build]
@@ -26,7 +26,7 @@ api_version = "2025-07"
 scopes = ""
 
 [auth]
-redirect_urls = ["https://finds-numerical-injury-sheffield.trycloudflare.com/auth/callback", "https://finds-numerical-injury-sheffield.trycloudflare.com/auth/shopify/callback", "https://finds-numerical-injury-sheffield.trycloudflare.com/api/auth/callback"]
+redirect_urls = ["https://montreal-arrive-router-suggests.trycloudflare.com/auth/callback", "https://montreal-arrive-router-suggests.trycloudflare.com/auth/shopify/callback", "https://montreal-arrive-router-suggests.trycloudflare.com/api/auth/callback"]
 
 [pos]
 embedded = false
